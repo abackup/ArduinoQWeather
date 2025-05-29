@@ -88,9 +88,9 @@ airQuality.config(API_Host, API_KEY, Latitude, Longitude, Lang); // 配置请求
 airQualityir.getAqi();              // 实时空气质量指数
 airQualityir.getPm10();             // 实时空气Pm10
 airQualityir.getPm2p5();            // 实时空气Pm2.5
-airQualityir.getNo2();             // 实时空气No2
-airQualityir.getSo2();             // 实时空气So2
-airQualityir.getO3();              // 实时空气O3浓度
+airQualityir.getNo2();              // 实时空气No2
+airQualityir.getSo2();              // 实时空气So2
+airQualityir.getO3();               // 实时空气O3浓度
 ```
 
 
