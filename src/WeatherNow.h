@@ -3,7 +3,7 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <WiFiClientSecure.h>
-#include <ArduinoUZlib.h>
+#include "ArduinoUZlib.h"
 #pragma once
 
 class WeatherNow
