@@ -1,9 +1,9 @@
 #include <Arduino.h>
-#include <ArduinoJson.h>
+#include "ArduinoJson.h"
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <WiFiClientSecure.h>
-#include <ArduinoUZlib.h>
+#include "ArduinoUZlib.h"
 #pragma once
 
 class AirQuality
