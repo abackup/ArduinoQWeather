@@ -39,7 +39,7 @@ private:
   String _reqUnit; // 单位
   String _reqLang; // 语言
 
-  const char *_host = _reqHost.c_str(); // 服务器地址
+//  const char *_host = _reqHost.c_str(); // 服务器地址
   const int httpsPort = 443;
 
   void _parseNowJson(String payload); // 解析json信息
