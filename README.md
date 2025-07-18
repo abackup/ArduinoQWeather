@@ -1,4 +1,4 @@
-# ArduinoQWeather  可能有错，还在优化中。。。
+# ArduinoQWeather 
 
 - [ArduinoQWeather](#arduinoqweather)
   * [基本介绍](#基本介绍)
