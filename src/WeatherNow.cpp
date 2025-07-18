@@ -22,7 +22,7 @@ bool WeatherNow::get()
     HTTPClient http;
 
     http.begin(url);
-
+    http.setTimeout(3000);
     // start connection and send HTTP header
     int httpCode = http.GET();
 
