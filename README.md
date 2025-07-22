@@ -1,4 +1,4 @@
-# ArduinoQWeather 
+# ArduinoQWeather （在ESP32-C3上会阻塞，待优化）
 
 - [ArduinoQWeather](#arduinoqweather)
   * [基本介绍](#基本介绍)
